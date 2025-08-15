@@ -26,6 +26,7 @@ TradeX/
 ├── backend/    # Node.js & Express backend
 └── dashboard/  # Admin/Trading dashboardgit 
 
+ ```
 
 ## Installation
 
