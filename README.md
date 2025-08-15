@@ -19,11 +19,12 @@ A web-based stock trading platform inspired by **Zerodha**, built using **HTML, 
 
 ## Project Structure
 
-zerodha/
+```text
+TradeX/
 │
-├── frontend/ # React frontend
-├── backend/ # Node.js & Express backend
-└── dashboard/ # Admin/Trading dashboard
+├── frontend/   # React frontend
+├── backend/    # Node.js & Express backend
+└── dashboard/  # Admin/Trading dashboardgit 
 
 
 ## Installation
