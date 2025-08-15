@@ -1,4 +1,4 @@
-TradeX – Web-Based Trading Application
+## TradeX – Web-Based Trading Application
 
 A web-based stock trading platform inspired by **Zerodha**, built using **HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB**. This project simulates a trading environment with features like stock buying/selling, portfolio management, and real-time stock updates.  
 
@@ -29,7 +29,7 @@ zerodha/
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/SahilPatil8/zerodha-clone.git
+git clone https://github.com/SahilPatil8/TradeX-Trading-Platform.git
 
 2. Install frontend dependencies:
 cd zerodha/frontend
